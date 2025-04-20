@@ -331,6 +331,9 @@ body {
     padding-top: 1.3rem;
     padding-bottom: 1rem;
   }
+  .selection .fest .ticketno {
+    padding: 1rem 0.5rem;
+  }
   .selection .fest .ticketno label {
     position: relative;
     left: 0.3rem;
